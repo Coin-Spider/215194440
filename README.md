@@ -5,6 +5,6 @@
 - 📫 you can send a email to 215194440@qq.com
 
 <!---
-215194440/215194440 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+rum/rum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
